@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# models
+llama-3.2-3b-merged
+finetuned_model
+ft_lora
+outputs_ft
+qlora-output

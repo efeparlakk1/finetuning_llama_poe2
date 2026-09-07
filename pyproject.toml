@@ -1,0 +1,16 @@
+[project]
+name = "unsloth-ft"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.14.0",
+    "bitsandbytes>=0.50.2",
+    "datasets>=4.3.0",
+    "jupyterlab>=4.6.3",
+    "peft>=0.20.0",
+    "transformers>=5.5.0",
+    "trl>=0.24.0",
+    "unsloth>=2026.9.2",
+]
