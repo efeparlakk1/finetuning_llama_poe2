@@ -15,3 +15,5 @@ finetuned_model
 ft_lora
 outputs_ft
 qlora-output
+unsloth_compiled_cache
+qlora-final-adapter
