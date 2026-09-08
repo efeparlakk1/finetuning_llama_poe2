@@ -17,3 +17,6 @@ outputs_ft
 qlora-output
 unsloth_compiled_cache
 qlora-final-adapter
+unsloth_compiled_cache
+unsloth-qlora-adapter
+unsloth-output
